@@ -1,0 +1,15 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: lavenderblush;
+}
+
+footer, header {
+    background-color: rgb(119, 27, 119);
+    color: white;
+    min-height: 100px;
+    padding: 1rem;
+}
